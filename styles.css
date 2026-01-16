@@ -87,7 +87,7 @@ html, body{
     
 }
 #heroleft button{
-    cursor:pointer
+    cursor:pointer;
      pointer-events: all;
     padding: .8vw 3vw;
     font-size: 3vw;
